@@ -1,0 +1,2 @@
+# schoolA
+git tutorial
